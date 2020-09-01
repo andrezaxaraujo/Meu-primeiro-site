@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title id="titulo">Meu Primeiro Site</title>
+        <link rel="stylesheet" href="estilo.css">
+    </head>
+    <center>
+    <h1 id="titulo">Meu Primeiro Site</h1>
+</center>
+    <body> 
+        <div class="caixa">
+            O papel da agricultura sustentável para erradicação da fome no Brasil   
+        </div>
+        <div class="caixa">
+        Cerca de 37,5 milhões de pessoas vivem em situação de insegurança alimentar no Brasil segundo dados fornecidos pela FAO
+        </div>
+    <P class="caixa">De acordo com a EMBRAPA por volta de 30% dos produtos gerados pela agricultura do Brasil são desperdiçados</P>
+    
+    <center>
+
+    <img src="img/fome1.jpg" width="300">
+
+    </center>
+</body>
+</html>
